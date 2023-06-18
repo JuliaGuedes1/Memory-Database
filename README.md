@@ -4,7 +4,7 @@ A aplicação consiste em adicionar dados em um banco de dados em memória (H2) 
 
 
 ### Dependencias:
-* JDK 11;
+* JDK 17;
 * Maven 3.8.4
 
 Os arquivos data.sql e schema.sql são responsáveis por adicionar dados no banco H2 quando a aplicação é executada. 
